@@ -1,6 +1,7 @@
 # NightTab Gruvbox Theming Config
 
 This repository contains a custom configuration for the [NightTab](https://github.com/zombieFox/nightTab) extension, utilizing the Gruvbox dark theme for a consistent and visually appealing browsing experience.
+![NightTab](https://github.com/user-attachments/assets/d99a3bcc-ae5a-44ba-a369-9ca63b1e824a)
 
 ## Installation
 
